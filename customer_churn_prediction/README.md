@@ -1,5 +1,3 @@
----
-
 ```markdown
 # 🧠 Customer Churn Prediction
 
@@ -73,4 +71,3 @@ customer_churn_prediction/
 This project is licensed under the MIT License.
 ```
 
----
