@@ -1,6 +1,3 @@
----
-
-```markdown
 # 🧠 Customer Churn Prediction
 
 🗂️ A machine learning project that predicts customer churn in a telecom company using real-world-like data.  
@@ -71,6 +68,4 @@ customer_churn_prediction/
 ## 📌 License
 
 This project is licensed under the MIT License.
-```
 
----
