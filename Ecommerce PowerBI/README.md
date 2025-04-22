@@ -25,7 +25,8 @@ This dashboard enables business users to:
 
 ## 📸 Dashboard Preview
 
-![Dashboard Screenshot](assets/dashboard_screenshot.png)
+![Dashboard Screenshot](assests/dashboard_screenshot.png)
+
 
 ---
 
