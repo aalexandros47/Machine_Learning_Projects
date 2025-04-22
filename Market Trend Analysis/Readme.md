@@ -98,7 +98,7 @@ Open `Ecommerce_Sales_Report.pbix` and configure the data source to point to you
 
 ##  Contact
 
-If you’d like to collaborate or have questions about the project, feel free to reach out via [LinkedIn](https://linkedin.com/in/your-profile) or email.
+If you’d like to collaborate or have questions about the project, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/aalexandros47/) or email.
 ```
 
 ---
